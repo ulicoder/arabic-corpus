@@ -1,4 +1,4 @@
-## ArCC: EFL Learners' Corpus
+## ArabicCC: EFL Learners' Corpus
 
 A research project led by [Dr. Omaima Abboud](https://www.linkedin.com/in/omaima-abboud-915668149/?originalSubdomain=il) together with [Dr. Noam Ordan](https://scholar.google.com/citations?user=-Xtm8iAAAAAJ&hl=en). The corpus data is curated by [Uliana Sentsova](https://www.linkedin.com/in/uli/) (the owner of the current repository).
 
@@ -6,7 +6,7 @@ For any questions about the data, please do not hesitate to contact me directly 
 
 ### Corpus Description
 
-ArCC is a corpus of English essays written by native speakers of the Arabic language. Within the project, we collected 957 essays written by more than 300 students of The Arab Academic College of Education.
+ArabicCC is a corpus of English essays written by native speakers of the Arabic language. Within the project, we collected 957 essays written by more than 300 students of The Arab Academic College of Education.
 
 The directory of the project contains the following files and folders:
 
